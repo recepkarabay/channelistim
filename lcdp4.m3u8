@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:test
+https://vd22.mycdn.me/?expires=1586105839575&srcIp=149.140.13.156&srcAg=CHROME&ms=217.20.157.196&type=2&sig=3fp92EOd7Bs&ct=21&urls=217.20.153.84&clientType=0&id=768015862325&bytes=19055-8533340
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D FULL HD" tvg-logo="" group-title="TR:ULUSAL",TR: KANAL D FULL HD
 http://citymaxiptv.dynu.net:25461/gdESbeNL/iFYTMT/11768
 #EXTINF:-1,KANAL D
