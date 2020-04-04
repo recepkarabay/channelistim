@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D FULL HD" tvg-logo="" group-title="TR:ULUSAL",TR: KANAL D FULL HD
+http://citymaxiptv.dynu.net:25461/gdESbeNL/iFYTMT/11768
 #EXTINF:-1,KANAL D
 https://soledge21.dogannet.tv//S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:3168,Bölüm 1
